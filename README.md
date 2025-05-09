@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**stphn/stphn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is the place for my code.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Frontend:** React, Next.js, TypeScript
+- **Canvas & WebGL:** Three.js, Kaplay
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Other Places
+- 🐘 [Mastodon](https://mastodon.social/@stphn_)
+- 💼 [LinkedIn](https://www.linkedin.com/in/goeuriot/)
+
+---
+
+Thanks for stopping by 👩🏼‍💻 Happy coding!

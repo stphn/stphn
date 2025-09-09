@@ -4,7 +4,7 @@ This is the place for my code.
 
 ## 🛠 Tech Stack
 - **Frontend:** React, Next.js, TypeScript
-- **Canvas & WebGL:** Three.js, Kaplay
+- **Canvas, WebGL and Gaming:** Three.js, Godot, Kaplay
 
 ## 🌐 Other Places
 - 🐘 [Mastodon](https://mastodon.social/@stphn_)

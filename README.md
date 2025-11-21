@@ -3,8 +3,9 @@
 This is the place for my code.
 
 ## 🛠 Tech Stack
+- **Scripting:** Lua, Python
 - **Frontend:** React, Next.js, TypeScript
-- **Canvas, WebGL and Gaming:** Three.js, Godot, Kaplay
+- **Canvas, WebGL and Gaming:** Three.js, Godot, Kaplay, LÖVE
 
 ## 🌐 Other Places
 - [Mastodon](https://mastodon.social/@stphn_)
